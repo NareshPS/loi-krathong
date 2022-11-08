@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Random Words</title>
+
+    <link rel="stylesheet" href="assets/styles/base.css">
+    <link rel="stylesheet" href="assets/styles/index.css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet">
+
+    <script src="index.js" type="module"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@latest"> </script>
+  </head>
+  <body id="app">
+    <header>Random Word</header>
+    <section class="top-section">
+      <div class="stage">
+        <h1>{{currentItem.word}}</h1>
+        <ul>
+          <li v-for="(desc, category) in itemDetails">
+            <p>{{desc}}<sub>{{category}}</sub></p>
+          </li>
+        </ul>
+        <!-- <table class="word-details">
+          <tbody>
+            <template v-for="(category, desc) in currentItem.details">
+              <tr>
+                <td>{{category}}</td>
+                <td>{{desc}}</td>
+              </tr>
+            </template>
+          </tbody>
+        </table> -->
+        <div class="stage-controls">
+          <button id="next-word" @click="nextWord">Next</button>
+        </div>
+      </div>
+    </section>
+  </body>
+</html>
