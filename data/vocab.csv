@@ -45,7 +45,7 @@ Thai,Lao,Portuguese,Spanish,English
 เหยี่ยว,ແຫລວ,o falcão,el halcón,hawk
 เมฆ,ເມກ,a nuvem,la nube,cloud
 เผือก,ເຜືອກ,,,taro
-ตุ๊กตา,ຕຸກກະຕາ,a boneca,la muñeca,doll
+u,ຕຸກກະຕາ,a boneca,la muñeca,doll
 ครกและสาก,ຄົກແລະສາກ (ກະເບືອ),almofariz e pilão,mortero y maja,mortar and pestle
 ยีราฟ,ຈີຣາຟ,a girafa,la jirafa,giraffe
 กรอบรูป,ກອບຮູບ,,,
@@ -99,3 +99,71 @@ Thai,Lao,Portuguese,Spanish,English
 หญ้า,ຫຍ້າ,o capim,la hierba,grass
 หมอก,ໝອກ,o nevoeiro,las niebla,fog
 หวีด,ອອດ,o grito,el grito,scream
+หงาย,ປະເຊີນຫນ້າ,enfrentar,enfrentar,to face
+หรู,ຫລູຫລາ,luxo,lujo,luxury
+กึ่ง,ເຄິ່ງ,semi,semi,semi
+จมูก,ດັງ,o nariz,el nariz,nose
+ขนาน,ຂະໜານ,paralelo,paralelo,parallel
+สนิท,ສະນິດ,,,
+ขมิ้น,ກະຈຽວ,,,
+สมุน,ສະມຸນ,,,
+พลิก,ພິກ,virar,voltear,to turn over
+บันได,ຂັ້ນໄດ,as escadas,las escaleras,stairs
+ขยัน,ຂະຫຍັນ,diligente,diligente,diligent
+ถลอก,ຂັດ,raspar,rascar,scrub;scratch
+สนอง,ສະໜອງ,cumprir,cumplir,to meet expectations;to satisfy desires
+ขยุกขยิก,ຮອຍຂີດຂ່ວນ,o arranhão,el rasguño,scratch
+ผัน,ຜັນຄຳ,conjugar,conjugarse,conjugate
+สกด,ສະກົດ,consoante final,consonante final,final consonant in Thai and Lao
+เฝ้า,ເຝົ້າ,vigiar,vigilar,guard
+เดิม,ເດີມ,original,original,original
+กล้วยไม้,ດອກກ້ວຍໄມ້,a orquídea,la orquídea,orchid
+อม,ອົມ,chupar,chupar,suck
+อมยิ้ม,ອົມຍິ້ມ,o pirulito,el chupete,lollipop
+ยางลบ,ຢາງລົບ,o apagador,el borrador,eraser
+ลูกโป่ง,ປູມເປົ້າ,o balão,el globo,balloon
+แม่เหล็ก,ແມ່ເຫຼັກ,o ímã,el imán,magnet
+เรืยบเริยง,ນິພັນ,compor,componer,to compose
+ใจความ,ເນື້ອຄວາມ,a essência,la esencia,essense;gist
+ผู้ถูกกระทำ,ຜູ້ກະທຳ,a sujeita,el sujeto,subject (parts of speech)
+เกาะ,ເກາະ,a ilha,la isla,island
+ปลาทู,ປາທູ,a cavala,la caballa,mackerel
+ป่วย,ເຈັບປ່ວຍ,doente,enfermo,sick
+บาน,ບານ,florescer,florecer,to blossom
+ประธาน,ປະທານ,primário,primario,primary
+กรรม,ກັມ,a ação,la acción,duty;action
+ซ่อม,ສ້ອມແປງ,reparar,reparar,to repair
+สือสาร,ສື່ສານ,comunicar,comunicarse,to communicate
+ควบคู่,ຄວບຄູ່,em conjunto,en tándem,to bundle together;in tandem
+สมบูรณ์,ສົມບູນ,completar,completar,to complete
+มารยาท,ມັນລະຍາດ,a etiqueta,la etiqueta,etiquettes;manner;behavior
+สอดแทรก,ແຊກແຊງ,interferir,interferir,to interfere
+เหมาะสม,ເຫມາະສົມ,apropriado,adecuado,appropriate
+ปรบมือ,ຕົບມື,aplaudir,aplaudir,to applaud
+เกียรติ,ກຽດຕິຍົດ,a honra,el honor,honor
+ถ้อยคำ,ວະລີ,frase;palavras,frase;palabras,phrase;words
+น้ำเสียง,ສໍານຽງ,tom,tono,tone
+นุ่มนวล,ອ່ອນໂຍນ,gentil,amable,gentle
+เปรียบเทียบ,ປຽບທຽບ,comparar,comparar,compare
+บวก,ບວກ,a adição,la suma,addition
+ประโยค,ປະໂຫຍກ,a sentença,la oración,sentence
+สัญลัก,ສັນຍາລັກ,o símbolo,el símbolo,symbol
+ไอคกรีมกะทิ,ກະ​ແລັມນົມຫມາກພ້າວ,o leite de coco sorvete,el helado de leche de coco,coconut milk icecream
+แท่ง,ແທ່ງ,a vara,el palo,stick;bar (like an ice cream bar)
+สลับ,ສະຫຼັບກັນ,intercâmbio,intercambio,interchange
+ประโยคสัญลัก,ສັນຍາລັກ,a equação,la ecuación,equation
+โจทย์,,,,parts of a math problems
+ตรวจสอบ,ກວດສອບ,examinar,examinar,examine
+สม,ສົມ,ser adecuado,para ser adecuado,to be suitable
+ตัวตั้ง,ຕົວຕັ້ງ,valor inicial,valor inicial,initial value
+ชิ้น,,a peça;o item,la pieza;el artículo,piece;item
+สัมพันธ์,ຄວາມສຳພັນ,a relação,la relación,relationship
+ทราบ,ຊາບ,saber,saber,to know
+ใบ,ໃບ,um classificador para garrafa e objetos planos,un clasificador para botella y objetos planos,a classifier for bottle and flat objects
+ตั้งอยู่,ທີ່ຕັ້ງຢູ່,para ser localizado ou situado,ser ubicado o situado,to be located or situated
+เครื่งหมาย,ເຄື່ອງຫມາຍ,a marca;o sinal;+-*/,la marca;el signo;+-*/,mark;sign;+-*/
+รถเก๋ง,ລົດເກັງ,sedan,sedán,sedan
+รถกระบะ,ລົດ​ກະ​ບະ,caminhonete,la camioneta,pickup truck
+ครบ,ຄອບ,completar,completar,to complete
+ไม่ว่า,ບໍ່ວ່າ,não importa,no importa,no matter
+ฝ้าย,ຝ້າຍ,o algodão,el algodón,cotton
