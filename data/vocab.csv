@@ -16,7 +16,7 @@ Thai,Lao,Portuguese,Spanish,English
 สงสัย,ສົງ​ໄສ,duvidar,dudar,doubt
 ยอม,ຍອມ​,aceitar,aceptar,accept;agree
 ผลดำเนินงาน,,,,performance
-,ການນໍາສະເຫນີ,apresentação,,presentation
+การนำเสนอ,ການນໍາສະເຫນີ,apresentação,,presentation
 แผนภาพ,ແຜນພາບ,,,chart
 แจก,,distribuir,,distribute
 ยอดขาย,ການຂາຍ,vendas,,sales
@@ -89,7 +89,7 @@ u,ຕຸກກະຕາ,a boneca,la muñeca,doll
 คว่ำ,ຂວ້ຳ,invertido,al revés,upside down
 เกวียน,ກວຽນ,o carrinho,el carro,cart
 แกว่งไกว,ແກວ່ງ,oscilar,oscilar,swing
-ขวนขวาย,,,,strive
+ขวนขวาย,ຕໍ່ສູ້,esforçar-se,esforzarse,strive
 เคว้งคว้าง,ເລື່ອນລອຍ,flutuar,flotarse,drift
 ขวาน,ຂວານ,o machado,la hacha,axe
 ขว้าง,ຂວ້າງ,lançar,lanzar,pitch;throw
@@ -104,9 +104,9 @@ u,ຕຸກກະຕາ,a boneca,la muñeca,doll
 กึ่ง,ເຄິ່ງ,semi,semi,semi
 จมูก,ດັງ,o nariz,el nariz,nose
 ขนาน,ຂະໜານ,paralelo,paralelo,parallel
-สนิท,ສະນິດ,,,
-ขมิ้น,ກະຈຽວ,,,
-สมุน,ສະມຸນ,,,
+สนิท,ສະນິດ,próximo,cercana,close
+ขมิ้น,ກະຈຽວ,a cúrcuma,la cúrcuma,turmeric
+สมุน,ສະມຸນ,subalterno,el subordinado,subordinate
 พลิก,ພິກ,virar,voltear,to turn over
 บันได,ຂັ້ນໄດ,as escadas,las escaleras,stairs
 ขยัน,ຂະຫຍັນ,diligente,diligente,diligent
@@ -156,7 +156,7 @@ u,ຕຸກກະຕາ,a boneca,la muñeca,doll
 ตรวจสอบ,ກວດສອບ,examinar,examinar,examine
 สม,ສົມ,ser adecuado,para ser adecuado,to be suitable
 ตัวตั้ง,ຕົວຕັ້ງ,valor inicial,valor inicial,initial value
-ชิ้น,,a peça;o item,la pieza;el artículo,piece;item
+ชิ้น,ປ່ຽງ,a peça;o item,la pieza;el artículo,piece;item
 สัมพันธ์,ຄວາມສຳພັນ,a relação,la relación,relationship
 ทราบ,ຊາບ,saber,saber,to know
 ใบ,ໃບ,um classificador para garrafa e objetos planos,un clasificador para botella y objetos planos,a classifier for bottle and flat objects
@@ -167,3 +167,55 @@ u,ຕຸກກະຕາ,a boneca,la muñeca,doll
 ครบ,ຄອບ,completar,completar,to complete
 ไม่ว่า,ບໍ່ວ່າ,não importa,no importa,no matter
 ฝ้าย,ຝ້າຍ,o algodão,el algodón,cotton
+กระจกมองหลัง,ກະຈົກເບິ່ງ,o espelho retrovisor,el espejo retrovisor,rear view mirror
+เกะกะ,ກະຈຸຍກະຈາຍ,desordenado,desordenado,disorderly
+คดี,ກໍລະນີ,o caso,el caso,case
+อำนวย,ອຳນວຍ,asistir,asistir,to assist
+ขโมย,ລັກ,roubar,robar,steal
+ตำรวจสายตรวจ,ຕໍາຫລວດລາດຕະເວນ,polícia de patrulha,patrol policía,patrol police
+สวม,ໃສ່,vestir,vestir,wear
+ปลอกคอ,ໍ່ຄໍປົກ,el colarinho,el cuello,collar
+พระราชฐาน,ວັງ,o palácio,el palacio,palace
+ตรวจตรา,ລາດຕະເວນ,a patrulha,la patrulla,patrol
+สันติบาล,ສາຂາພິເສດ,ramo especial,rama especial,special branch
+สืบสวนสอบสวน,ສືບສວນ,investigar,investigar,investigate
+มอบ,ຢົກໃຫ້,dar,dar,to give
+เสึยสละ,ເສຍສະລະ,sacrificar,sacrificar,to sacrifice
+ตำนาน,ນິທານ,a lenda;o mito,la leyenda;el mito,legend;myth
+พิธี,ພິທີ,a cerimônia,la ceremonia,ceremony
+วิวา,ແຕ່ງງານ,o casamento,la boda,wedding
+หวานใจ,ທີ່ຮັກແພງ,querido,cariño,sweetheart
+ล่าสุด,ລ່າ​ສຸດ,mais recentes,el último,latest
+สดใส,ສົດໃສ,brilhante,brillante,bright
+ลึกลับ,ລຶກລັບ,misterioso,misterioso,mysterious
+แขวน,ແຂວນ,pendurar,colgar,hang
+สกปรก,ເປື້ອນ,sujo,sucio,dirty
+ร้าง,ຮ້າງ,abandonar,abandonar,abandon
+ตกปลา,ຫາປາ,pescar,pescar,to fish
+ตกเบ็ด,ຕຶກເບ້ດ,pescar com um gancho,pescar con un gancho,to fish with a hook
+เย็บ,ຫຍິບ,costurar,coser,sew
+หยิบ,ຍິບ,escolher,recoger,pick
+สาบาน,ສາບານ,xingar,jurar,swear
+แทง,ແທງ,punhalar,puñalar,stab
+ซาบซึ้ง,ຊື່ນຊົມ,apreciar,valorar,appreciate
+ชี้,ຊີ້,apontar,apuntar,to point
+ส่องด่วน,ເບິ່ງດ່ວນ,uma olhadela,vistazo rápido,quick look
+น้ำท่วม;การณ์อุทกภัย,ນ້ຳຖ້ວມ,enchente,inundación,flood
+ลุ้นโชค,ຊະນະໂຊກ,sorteio,sorteo,lucky draw
+งวด,ການຕິດຕັ້ງ,prestação,entrega,installment
+การกระทรวงกลาโหม,ກະຊວງປ້ອງກັນປະເທດ,ministro da defesa,ministerio de defensa,ministry of defense
+รางวัล,ລາງ​ວັນ,prêmio; recompensa,premio; recompensa,prize;reward
+การแข่งขัน,ການແຂ່ງຂັນ,concorrência,competencia,competition
+สลบหน้าทิ่ม,ສະຫລົບຫນ້າຖິ້ມ,desmaiar,desmayar,to pass out
+บุคลิก,ບຸກຄະລິກ,personalidade,personalidad,personality
+นำเสนอ,ສົ່ງເສີມ,promover,promover,to promote
+เปิดตัว,ເປີດຕົວ,lançar,lanzar,launch
+ตบ,ຕົບ,a tapa,la bofetada,slap
+ยืน,ຢືນ,ficar em pé,estar en pie,stand
+คิดออกแล้ว,ຄິດອອກ,entender,averiguarlo,figure it out
+เฉย,ດາຍ,indiferente,indiferente,indifferent
+เหตุการณ์,ເຫດການ,evento,evento,event
+ยื่น,ຍື່ນ,à mão,a la mano,to hand;to submit
+สนุกสนาน,ມ່ວນຊື່ນ,diversão,divertida,fun
+เงียบสงบ,ສະຫງົບງຽບ,tranquilo,tranquilo,tranquil
+หยิบ,ຢິບເອົາ,escolher,recoger,to pick
